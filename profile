@@ -16,3 +16,4 @@ if [ "$BASH" ]; then
                 fi
         fi
 fi
+trap ' '2 20
